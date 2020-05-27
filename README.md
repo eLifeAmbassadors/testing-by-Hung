@@ -2,7 +2,7 @@
 
 I made this repository during the GitHub workshop for eLife Ambassadors.
 
-## I love plants and mushrooms :D 
+## I love plants and mushrooms :D
 
 
 ## Carolina
